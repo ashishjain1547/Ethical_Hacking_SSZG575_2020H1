@@ -1,0 +1,46 @@
+inetnum:        27.109.0.0 - 27.109.31.255
+netname:        BLAZENET
+descr:          Blazenet Pvt Ltd
+descr:          403 / 404 Sarita Complex
+descr:          Behind Hotel Classic Gold
+descr:          Off C. G. Road
+country:        IN
+org:            ORG-BPL3-AP
+admin-c:        RR25-AP
+tech-c:         RR25-AP
+abuse-c:        AB1108-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-IN-BLAZENET
+mnt-routes:     MAINT-IN-BLAZENET
+mnt-irt:        IRT-BLAZENET
+last-modified:  2020-07-07T05:00:58Z
+source:         APNIC
+
+irt:            IRT-BLAZENET
+address:        403 404 sarita complex off cg road ahmedabad
+e-mail:         rajeev@blazenet.biz
+abuse-mailbox:  rajeev@blazenet.biz
+admin-c:        RR25-AP
+tech-c:         RR25-AP
+auth:           # Filtered
+remarks:        rajeev@blazenet.biz
+remarks:        rajeev@blazenet.biz was validated on 2021-01-19
+mnt-by:         MAINT-IN-BLAZENET
+last-modified:  2021-01-19T13:19:28Z
+source:         APNIC
+
+organisation:   ORG-BPL3-AP
+org-name:       Blazenet Pvt Ltd
+country:        IN
+address:        403 / 404 Sarita Complex
+address:        Behind Hotel Classic Gold
+address:        Off C. G. Road
+phone:          +91-7964-05997
+fax-no:         +91-7964-05998
+:
